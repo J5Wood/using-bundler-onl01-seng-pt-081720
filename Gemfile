@@ -11,6 +11,7 @@ end
 group :development do
   gem "pry"
 end
+end
 
 gem "awesome_print", :git => "https://github.com/awesome-print/awesome_print.git"
 
