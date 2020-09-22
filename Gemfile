@@ -1,3 +1,7 @@
+source 'https://github.com/awesome-print/awesome_print' do
+  gem 'awesome_print'
+end
+
 source "https://rubygems.org"
   gem "rspec"
   gem "sinatra", '1.4.4'
@@ -8,6 +12,4 @@ group :development do
   gem "pry"
 end
 
-source 'https://github.com/awesome-print/awesome_print' do
-  gem 'awesome_print'
-end
+
