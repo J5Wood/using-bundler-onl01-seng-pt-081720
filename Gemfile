@@ -14,7 +14,7 @@ end
 end
 
 
-source "git://github.com/awesome-print/awesome_print.git" do
+source "https://github.com/awesome-print/awesome_print.git" do
   gem "awesome_print"
 end
 
