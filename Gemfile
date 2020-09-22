@@ -13,6 +13,11 @@ group :development do
 end
 end
 
+
+source "https://github.com/awesome-print/awesome_print.git" do
+  gem "awesome_print"
+end
+
 gem "awesome_print", :git => "https://github.com/awesome-print/awesome_print.git"
 
 # /gem ['"]awesome_print['"], ?(git:|:git ?=>) ?['"]git@github\.com:awesome\-print\/awesome_
