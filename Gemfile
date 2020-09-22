@@ -10,7 +10,7 @@ group :development do
 gem "pry"
 end
 
-gem "awesome_print", git: "github.com/awesome-print/awesome_print"
+gem "awesome_print", git: "https://github.com/awesome-print/awesome_print"
 
-/gem ['"]awesome_print['"], ?(git:|:git ?=>) ?['"]git@github\.com:awesome\-print\/awesome_
-print\.git['"]/
+# /gem ['"]awesome_print['"], ?(git:|:git ?=>) ?['"]git@github\.com:awesome\-print\/awesome_
+# print\.git['"]/
