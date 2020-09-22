@@ -19,6 +19,6 @@ source "https://github.com/awesome-print/awesome_print.git" do
 end
 
 # gem "awesome_print", :git => "https://github.com/awesome-print/awesome_print.git"
-# 
+#
 # # /gem ['"]awesome_print['"], ?(git:|:git ?=>) ?['"]git@github\.com:awesome\-print\/awesome_
 # # print\.git['"]/
